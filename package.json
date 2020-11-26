@@ -1,8 +1,8 @@
 {
   "name": "it-incubator-todolist-ts",
+  "homepage": "https://alexeisamuta.github.io/todoList-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexeisamuta.github.io/todoList-v2",
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",
